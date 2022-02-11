@@ -25,4 +25,4 @@ echo "</ul>";
 
 ?>
 </body>
-</html>.
+</html>
