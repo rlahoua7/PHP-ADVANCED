@@ -9,13 +9,13 @@
 <body>
     <?php
 
-$student['naam'] = rayan;
-$Student['achternaam'] = lahoua;
-$student['klas'] = 1C;
+$student['naam'] = "rayan";
+$student['achternaam'] = "lahoua";
+$student['klas'] = "1C";
 $student['leeftijd'] = 17;
 
-echo "mijn naam is" . $student['naam']; . "rayan";
-#meneer ik weet niet wat er fout aan is.
+echo "mijn naam is " . $student['naam'] ." ". $student['achternaam'];
+
 ?>
 </body>
 </html>
