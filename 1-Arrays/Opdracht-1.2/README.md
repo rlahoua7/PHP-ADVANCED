@@ -7,6 +7,7 @@
 Een associatieve array bestaat uit een __keys__ en een __values__.
 
 ```php
+
 $persoon["voornaam"]   = "Edwin";
 $persoon["achternaam"] = "Van der Sar";
 $persoon["club"]       = "Ajax";
