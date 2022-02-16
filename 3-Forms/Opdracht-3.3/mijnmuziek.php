@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<form name="invoerformulier"action="mijngegevens.php" method="get">
+<form name="invoerformulier"action="mijngegevens.php" method="GET">
         artiest:
         <input type="text" name="artiest"><br>
         titel
