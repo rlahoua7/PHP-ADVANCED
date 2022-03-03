@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +17,7 @@ $student['klas'] = "1C";
 $student['leeftijd'] = 17;
 
 echo "mijn naam is " . $student['naam'] ." ". $student['achternaam'];
-
+//
 
 ?>
 </body>
