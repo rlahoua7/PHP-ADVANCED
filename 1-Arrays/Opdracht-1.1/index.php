@@ -16,6 +16,7 @@ $student['leeftijd'] = 17;
 
 echo "mijn naam is " . $student['naam'] ." ". $student['achternaam'];
 
+
 ?>
 </body>
 </html>
